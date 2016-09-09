@@ -1,0 +1,15 @@
+{
+  "irc": {
+    "host": "chat.freenode.net",
+    "tls": true,
+    "nick": "bot_nick",
+    "channels": ["##example"],
+    "debug": true
+  },
+  "targetNick": "targetNick",
+  "prefix": "-",
+  "admins": ["your/hostname"],
+  "pingList": ["your_nick"],
+  "noMonitor": true,
+  "isonInterval": 5000
+}
